@@ -1,11 +1,4 @@
-<div align="center">
-  <picture>
-    <img alt="LightLLM" src="assets/lightllm.drawio.png" width=90%>
-  </picture>
-</div>
 
----
-<div align="center">
 
 [![docs](https://img.shields.io/badge/docs-latest-blue)](https://github.com/ModelTC/lightllm/blob/main/docs/TokenAttention.md)
 [![Docker](https://github.com/ModelTC/lightllm/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ModelTC/lightllm/actions/workflows/docker-publish.yml)
